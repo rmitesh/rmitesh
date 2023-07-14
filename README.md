@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hey there, I am Mitesh&#x1f981;
 
-<!--
-**rmitesh/rmitesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+	<a href="https://in.linkedin.com/in/mitesh-rathod-bb3123197">
+		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+	</a>
+	<a href="https://stackoverflow.com/users/10988386/mitesh-rathod">
+		<img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="StackOverflow"/>
+	</a>
+	<a href="https://stackoverflow.com/users/10988386/mitesh-rathod">
+		<img src="https://komarev.com/ghpvc/?username=rmitesh&style=for-the-badge&color=blue" alt=""/>
+	</a>
+</p>
 
-Here are some ideas to get you started:
+<a href="https://github.com/rmitesh">
+	<img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=rmitesh&show_icons=true" align="right" height="150" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>I am sharing my bit experience with you, why not you also share as well?</p><p>Yeah, Sounds good 😉🍻
+</p>
+
+### I'm currently working on...
+- [Project Planner](https://github.com/rmitesh/project-planner), TALL Stack Project Planner Tool using Laravel + Filament
+- Active member in the Stack Overflow.
+
+### My Packages
+- [Filament Action](https://github.com/rmitesh/filament-action)
