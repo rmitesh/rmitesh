@@ -11,6 +11,11 @@
 		<img src="https://komarev.com/ghpvc/?username=rmitesh&style=for-the-badge&color=blue" alt=""/>
 	</a>
 </p>
+<p>
+	<a href="https://www.buymeacoffee.com/rmitesh" target="_blank">
+		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+	</a>
+</p>
 
 <a href="https://github.com/rmitesh">
 	<img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=rmitesh&show_icons=true" align="right" height="150" />
