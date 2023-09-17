@@ -30,4 +30,5 @@
 
 ### My Packages
 - [Filament Action](https://github.com/rmitesh/filament-action)
+- [Laravel Pantry](https://github.com/rmitesh/laravel-pantry)
 - [Filament Card Stack](https://github.com/rmitesh/card-stack)
